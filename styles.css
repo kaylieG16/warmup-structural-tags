@@ -1,0 +1,29 @@
+html {
+font-family: "Quicksand", sans-serif;
+}
+
+.site-header {
+background-color: beige;
+padding: 30px;
+}
+
+body {
+margin: 0;
+}
+
+.main-content {
+padding: 30px;
+}
+
+.site-footer {
+padding: 30px;
+background-color: darkgray;
+}
+
+.footer-links {
+list-style-type: none;
+}
+
+.google-link {
+color: white;
+}
